@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+It's me Rizky Alviandra
+
+- 🌱 I’m currently learning React Testing
+
+- ⚡ Fun fact: I like to share what I learn 
 <!--
 **rizkyalviandra/rizkyalviandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
